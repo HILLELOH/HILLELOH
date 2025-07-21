@@ -3,7 +3,7 @@
 
 I'm a 22-year-old Computer Science & Mathematics student with a strong passion for data-driven problem solving and research. Currently serving as a **Team Lead of Data Analysts and BI Experts** in the Israeli Intelligence Corps, I lead complex, large-scale data initiatives that drive real-world impact.  
 
-With experience in both academic research and operational systems, I combine technical depth with hands-on leadership. My expertise spans data engineering, machine learning, and modern BI tools.
+With experience in both academic research and operational systems, I combine technical depth with hands-on leadership. My expertise spans data analysis, machine learning, and modern BI tools.
 
 ---
 
