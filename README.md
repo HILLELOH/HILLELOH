@@ -54,6 +54,7 @@ With experience in both academic research and operational systems, I combine tec
 
 📫 **Let’s Connect**  
 - 📍 Jerusalem, Israel  
-- 📧 hilleloh@gmail.com  
+- 📧 hilleloh@gmail.com
+- 📧 hillel.ohayon@msmail.ariel.ac.il
 - 🔗 [GitHub](https://github.com/HILLELOH)
 
