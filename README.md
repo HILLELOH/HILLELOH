@@ -1,7 +1,7 @@
 # Hi, I'm Hillel Ohayon 👋  
-**Team Lead | Data Analyst | B.Sc. in Computer Science & Mathematics**
+**Team Lead | Data Analyst | B.Sc. in Computer Science & Mathematics | M.Sc. in Data Science & AI (in progress)**
 
-I’m a data analyst and team lead with a strong background in large-scale data systems, machine learning research, and operational analytics. After completing my B.Sc. in Computer Science & Mathematics, I continue to build on both academic and real-world experience, combining hands-on technical expertise with proven leadership.
+I’m a data analyst and team lead with a strong background in large-scale data systems, machine learning research, and operational analytics. I hold a B.Sc. in Computer Science & Mathematics and am currently completing an M.Sc. in Data Science & AI (started October 2025).
 
 Currently serving as a **Team Lead of Data Analysts and BI Experts** in the Israeli Intelligence Corps, I lead complex, mission-critical data initiatives that drive real-world impact. My strengths lie in problem-solving, modern data engineering tools, and building ML-driven solutions that turn complex data into actionable insights.
 
@@ -22,8 +22,15 @@ Currently serving as a **Team Lead of Data Analysts and BI Experts** in the Isra
 - Developed data-driven solutions supporting operational decision-making  
 - Improved analytical capabilities across multiple systems
 
-### **B.Sc. in Computer Science & Mathematics – Ariel University**  
-*Oct 2020 – Jun 2024*
+---
+
+## 🎓 Education
+
+- **M.Sc. in Data Science & AI**  
+  *In Progress — Oct 2025 – Present*
+
+- **B.Sc. in Computer Science & Mathematics – Ariel University**  
+  *Oct 2020 – Jun 2024*
 
 ---
 
